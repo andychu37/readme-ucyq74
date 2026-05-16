@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andychu37.github.io/readme-ucyq74/sitemap.xml
